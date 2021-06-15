@@ -1,9 +1,19 @@
+*{
+    margin: 0;
+    background-color: rgb(141, 141, 141);
+}
+
+html,
 body{
-    background-color: chartreuse;
+    width: 100%;
+    min-height: 100%;
+    margin: 0;
+    background-color: #181818;
 }
 
 header{
-    background-color: black;
+    height: 57px;
+    background-color: #212121;
 }
 
 nav{
